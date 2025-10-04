@@ -267,7 +267,7 @@ HDBD
         <strong>Human Development (HDBD)</strong>
         <div class="muted">© <span id="year"></span> hdbd.com — সকল অধিকার সংরক্ষিত।</div>
       </div>
-      <div class="muted">Address: 123 Example Rd, Dhaka — Email: info@hdbd.com</div>
+      <div class="muted">Address: Pabna, Dhaka,BD — Email: shareasobuj9829@gmail.com</div>
     </div>
   </footer>
 
